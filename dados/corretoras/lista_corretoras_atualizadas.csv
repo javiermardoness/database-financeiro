@@ -1,0 +1,56 @@
+ID,Nome,CNPJ,Status,País,Site,Tipo
+1,Ágora CTVM,74.014.747/0001-35,Ativa — B3 PQO,Brasil,https://www.agorainvest.com.br/,CTVM
+2,Ativa Investimentos,33.775.974/0001-04,Ativa — B3 PQO,Brasil,https://www.ativainvestimentos.com.br/,CTCV
+3,Avenue,61.384.004/0001-05,Ativa — DTVM Brasil + serviços de corretagem nos EUA,Brasil / EUA,https://avenue.us/,DTVM brasileira / corretora internacional
+4,Banrisul Corretora,93.026.847/0001-26,Ativa — B3 PQO,Brasil,https://www.banrisulcorretora.com.br/,CVMC
+5,BB Investimentos,24.933.830/0001-30,Ativa — B3 PQO,Brasil,https://www.bb.com.br/,Banco de Investimento
+6,BGC Liquidez,33.862.244/0001-32,Ativa — B3 PQO,Brasil,https://www.bgcliquidez.com.br/,DTVM
+7,Bradesco S/A CTVM,61.855.045/0001-32,Ativa — B3 PQO,Brasil,https://banco.bradesco/,CTVM
+8,BTG Pactual,43.815.158/0001-22,Ativa — B3 PQO,Brasil,https://www.btgpactual.com/,CTVM
+9,C6 Corretora,32.345.784/0001-86,Ativa — B3 PQO,Brasil,https://www.c6bank.com.br/,CTVM
+10,Charles Schwab,Não se aplica,Ativa — broker-dealer nos EUA,Estados Unidos,https://www.schwab.com/,Corretora estrangeira (broker-dealer)
+11,Citigroup Global Markets Brasil,33.709.114/0001-64,Ativa — B3 PQO,Brasil,https://www.citigroup.com/,CCTVM
+12,Clear Corretora,02.332.886/0011-78,Ativa — marca operada pela XP Investimentos,Brasil,https://corretora.clear.com.br/,Marca / CTVM XP
+13,CM Capital Markets,02.685.483/0001-30,Ativa — B3 PQO,Brasil,https://cmcapital.com.br/,CCTVM
+14,Codepe Corretora,09.512.542/0001-18,Consta em cadastro CVM — fora da lista PQO atual,Brasil,Não localizado,Corretora de Valores e Câmbio
+15,Coinvalores,00.336.036/0001-40,Consta em cadastro CVM — fora da lista PQO atual,Brasil,https://www.coinvalores.com.br/,CCVM
+16,Credit Suisse Brasil,42.584.318/0001-07,Baixada — incorporação em 26/01/2026,Brasil,https://www.ubs.com/br/pt.html,CTVM (legado UBS)
+17,Elite CCVM,28.048.783/0001-00,Consta em cadastro CVM — fora da lista PQO atual,Brasil,Não localizado,CCVM
+18,EQI Investimentos,47.965.438/0001-78,Ativa — B3 PQO,Brasil,https://eqi.com.br/,CTVM
+19,Fator Corretora,63.062.749/0001-83,Baixada — incorporação em 30/08/2024,Brasil,https://www.fator.com.br/,Corretora de Valores (legado)
+20,Genial Institucional,05.816.451/0001-15,Ativa — B3 PQO,Brasil,https://www.genialinvestimentos.com.br/,CCTVM
+21,Genial Investimentos,27.652.684/0001-62,Ativa — B3 PQO,Brasil,https://www.genialinvestimentos.com.br/,CVM / CTVM
+22,Goldman Sachs do Brasil,09.605.581/0001-60,Ativa — B3 PQO,Brasil,https://www.goldmansachs.com/worldwide/brazil/,CTVM
+23,Guide Investimentos,65.913.436/0001-17,Renomeada — atual Safra Asset Corretora,Brasil,https://www.safra.com.br/safra-asset/,Corretora de Valores (legado)
+24,Icap do Brasil,09.105.360/0001-22,Ativa — B3 PQO,Brasil,https://www.tpicap.com/,CTVM
+25,Ideal CTVM,31.749.596/0001-50,Ativa — B3 PQO,Brasil,https://idealctvm.com.br/,CTVM
+26,Inter DTVM,18.945.670/0001-46,Ativa — B3 PQO,Brasil,https://www.inter.co/,DTVM
+27,Interactive Brokers,Não se aplica,Ativa — broker-dealer nos EUA,Estados Unidos,https://www.interactivebrokers.com/,Corretora estrangeira (broker-dealer)
+28,Itaú Corretora,61.194.353/0001-64,Ativa — B3 PQO,Brasil,https://www.itaucorretora.com.br/,CV
+29,J.P. Morgan CCVM,32.588.139/0001-94,Ativa — B3 PQO,Brasil,https://www.jpmorgan.com/BR/pt/about-us,CCVM
+30,Lev DTVM,45.457.891/0001-48,Ativa — B3 PQO,Brasil,https://lev.com.vc/,DTVM
+31,Mercantil do Brasil Corretora,16.683.062/0001-85,Em alteração cadastral para Mercado Bitcoin CTVM,Brasil,https://www.mercadobitcoin.com.br/,CTVM
+32,Merrill Lynch S/A,02.670.590/0001-95,Ativa — B3 PQO,Brasil,https://business.bofa.com/,CTVM
+33,Mirae Asset Wealth Management,12.392.983/0001-38,Ativa — B3 PQO,Brasil,https://corretora.miraeasset.com.br/,CCTVM
+34,Morgan Stanley CTVM,04.323.351/0001-94,Ativa — B3 PQO,Brasil,https://www.morganstanley.com/about-us/global-offices/latin-america,CTVM
+35,Necton Investimentos,52.904.364/0001-08,Legado — operação atual sob o BTG Pactual / segmento Necton,Brasil,https://www.btgpactual.com/,Marca / CTVM BTG
+36,Nomad,Não se aplica (broker EUA),Ativa — broker EUA via Global DTVM no Brasil,Estados Unidos,https://www.nomadglobal.com/,Corretora estrangeira / acesso internacional
+37,Nova Futura Investimentos,04.257.795/0001-79,Ativa — B3 PQO,Brasil,https://www.novafutura.com.br/,CTVM
+38,Nu Invest,62.169.875/0001-79,Ativa — B3 PQO,Brasil,https://www.nuinvest.com.br/,CTVM
+39,Órama Investimentos,13.293.225/0001-25,Adquirida pelo BTG Pactual em 2024,Brasil,https://www.btgpactual.com/,DTVM (legado BTG)
+40,Planner Corretora,00.806.535/0001-54,Ativa — B3 PQO,Brasil,https://www.planner.com.br/,CV
+41,RB Capital,89.960.090/0001-76,Ativa — denominação atual RB Investimentos DTVM,Brasil,https://www.rbinvestimentos.com/,DTVM
+42,Renascença DTVM,62.287.735/0001-03,Renomeada — atual Warren Rena DTVM,Brasil,https://www.dtvm.com.br/,DTVM (legado)
+43,Rico Investimentos,02.332.886/0016-82,Ativa — marca operada pela XP Investimentos,Brasil,https://www.rico.com.vc/,Marca / CTVM XP
+44,Safra Corretora,01.638.542/0001-57,Ativa — B3 PQO,Brasil,https://www.safra.com.br/,DTVM
+45,Santander Corretora,29.162.769/0001-98,Ativa — atual Santander Corretora (ex-Toro CTVM),Brasil,https://investimentos.santander.com.br/corretora/nova-experiencia,CTVM
+46,Scotiabank Brasil,03.969.680/0001-57,Ativa — B3 PQO,Brasil,https://www.scotiabank.com.br/,CTVM
+47,Sproutfi,Não se aplica,Marca da Northbound Securities LLC — broker dos EUA; situação comercial atual não confirmada,Estados Unidos,Não localizado,Corretora estrangeira (broker-dealer)
+48,StoneX Distribuidora,62.090.873/0001-90,Ativa — B3 PQO,Brasil,https://dtvm.stonex.com/,DTVM
+49,Terra Investimentos,03.751.794/0001-13,Ativa — B3 PQO,Brasil,https://www.terrainvestimentos.com.br/,DTVM
+50,Toro Investimentos,29.162.769/0001-98,Marca histórica — atual Santander Corretora,Brasil,https://www.toroinvestimentos.com.br/,CTVM / marca histórica
+51,Tullett Prebon Brasil,61.747.085/0001-60,Ativa — B3 PQO,Brasil,http://www.tullettprebon.com.br/,CVC
+52,UBS Brasil Corretora,02.819.125/0001-73,Ativa — B3 PQO,Brasil,https://www.ubs.com/br/pt.html,CCTVM
+53,Warren Investimentos,62.287.735/0001-03,Ativa — operação via Warren Rena DTVM,Brasil,https://warren.com.br/,DTVM
+54,XP Investimentos,02.332.886/0001-04,Ativa — B3 PQO,Brasil,https://www.xpi.com.br/,CCTVM
+55,Corretora Teste Power Query V15,00.000.000/0000-00,Teste de sincronizacao,Brasil,https://www.javiermardones.com/,Teste Power Query
