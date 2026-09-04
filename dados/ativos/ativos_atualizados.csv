@@ -1,0 +1,334 @@
+﻿Ticker;Nome;Tipo;Categoria
+ABEV3;Ambev;Ação;Bebidas
+ALPA4;Alpargatas;Ação;Calçados e Vestuário
+ALUP11;Alupar;Ação;Energia Elétrica
+AMER3;Americanas;Ação;Varejo
+ASAI3;Assaí Atacadista;Ação;Varejo Alimentar
+AUAU3;União Pet Participações (Petz Cobasi);Ação;Varejo Pet
+AURE3;Auren Energia;Ação;Energia Elétrica
+AXIA3;Axia Energia (Ações Ordinárias);Ação;Energia Elétrica
+AXIA7;Axia Energia (Ações Preferenciais Classe C);Ação;Energia Elétrica
+AZZA3;Azzas 2154 (Fusão de Arezzo e Grupo Soma);Ação;Moda e Vestuário
+B3SA3;B3;Ação;Serviços Financeiros
+BBAS3;Banco do Brasil;Ação;Bancos
+BBDC3;Bradesco (Ações Ordinárias);Ação;Bancos
+BBDC4;Bradesco (Ações Preferenciais);Ação;Bancos
+BBSE3;BB Seguridade;Ação;Seguros
+BEEF3;Minerva;Ação;Alimentos
+BPAC11;BTG Pactual;Ação;Bancos
+BRAP4;Bradespar;Ação;Holding
+BRAV3;Brava Energia (Antiga 3R Petroleum / Enauta);Ação;Petróleo e Gás
+BRKM5;Braskem;Ação;Petroquímica
+CEAB3;C&A Modas;Ação;Moda e Vestuário
+CMIG3;Cemig (Ações Ordinárias);Ação;Energia Elétrica
+CMIG4;Cemig (Ações Preferenciais);Ação;Energia Elétrica
+COGN3;Cogna;Ação;Educação
+CPFE3;CPFL Energia;Ação;Energia Elétrica
+CSAN3;Cosan;Ação;Holding e Energia
+CSNA3;Siderúrgica Nacional (CSN);Ação;Siderurgia
+CURY3;Cury Construtora;Ação;Construção Civil
+CVCB3;CVC Brasil;Ação;Turismo
+CYRE3;Cyrela (Ações Ordinárias);Ação;Construção Civil
+CYRE4;Cyrela (Ações Preferenciais);Ação;Construção Civil
+DIRR3;Direcional;Ação;Construção Civil
+ECOR3;EcoRodovias;Ação;Infraestrutura e Concessões
+EGIE3;Engie Brasil;Ação;Energia Elétrica
+EMBR3;Embraer;Ação;Aeroespacial e Defesa
+ENEV3;Eneva;Ação;Energia Elétrica
+ENGI11;Energisa;Ação;Energia Elétrica
+EQTL3;Equatorial;Ação;Energia Elétrica
+EZTC3;Eztec;Ação;Construção Civil
+FLRY3;Fleury;Ação;Saúde
+GGBR4;Gerdau;Ação;Siderurgia
+GOAU4;Metalúrgica Gerdau;Ação;Siderurgia
+HAPV3;Hapvida;Ação;Saúde
+HYPE3;Hypera;Ação;Farmacêutico
+IRBR3;IRB Brasil Re;Ação;Seguros
+ITSA4;Itaúsa;Ação;Holding Financeira
+ITUB3;Itaú Unibanco (Ações Ordinárias);Ação;Bancos
+ITUB4;Itaú Unibanco (Ações Preferenciais);Ação;Bancos
+KLBN11;Klabin;Ação;Papel e Celulose
+LREN3;Lojas Renner;Ação;Moda e Varejo
+MDIA3;M. Dias Branco;Ação;Alimentos
+MGLU3;Magazine Luiza;Ação;Varejo
+MOTV3;Motiva Infraestrutura de Mobilidade;Ação;Infraestrutura e Concessões
+MOVI3;Movida;Ação;Locação de Veículos
+MRVE3;MRV Engenharia;Ação;Construção Civil
+MULT3;Multiplan;Ação;Shopping Centers
+NATU3;Natura Cosméticos;Ação;Cosméticos
+PETR3;Petrobras (Ações Ordinárias);Ação;Petróleo e Gás
+PETR4;Petrobras (Ações Preferenciais);Ação;Petróleo e Gás
+POMO4;Marcopolo;Ação;Material de Transporte
+PRIO3;PetroRio;Ação;Petróleo e Gás
+PSSA3;Porto Seguro;Ação;Seguros
+RADL3;Raia Drogasil;Ação;Farmácias e Varejo
+RAIL3;Rumo;Ação;Logística Ferroviária
+RAIZ4;Raízen;Ação;Açúcar, Etanol e Energia
+RENT3;Localiza (Ações Ordinárias);Ação;Locação de Veículos
+RENT4;Localiza (Ações Preferenciais);Ação;Locação de Veículos
+SANB11;Santander Brasil;Ação;Bancos
+SBSP3;Sabesp;Ação;Saneamento
+SLCE3;SLC Agrícola;Ação;Agronegócio
+SUZB3;Suzano;Ação;Papel e Celulose
+TAEE11;Taesa;Ação;Energia Elétrica
+TOTS3;Totvs;Ação;Tecnologia
+UGPA3;Ultrapar;Ação;Distribuição de Combustíveis
+USIM5;Usiminas;Ação;Siderurgia
+VALE3;Vale;Ação;Mineração
+VIVA3;Vivara;Ação;Joalheria
+VIVT3;Telefônica Brasil (Vivo);Ação;Telecomunicações
+WEGE3;Weg;Ação;Bens de Capital
+YDUQ3;Yduqs;Ação;Educação
+AAPL34;Apple Inc.;BDR;Tecnologia
+ABBV34;AbbVie Inc.;BDR;Saúde
+ABNB34;Airbnb Inc.;BDR;Consumo Cíclico / Turismo
+ADBE34;Adobe Inc.;BDR;Tecnologia
+AMD34;Advanced Micro Devices Inc.;BDR;Tecnologia
+AMZO34;Amazon.com Inc.;BDR;Consumo Cíclico / Serviços
+AVGO34;Broadcom Inc.;BDR;Tecnologia
+AXPB34;American Express Company;BDR;Financeiro
+B1HP34;BHP Group Ltd.;BDR;Mineração
+B1ZE34;Braze;BDR;Tecnologia
+BABA34;Alibaba Group Holding Ltd.;BDR;Consumo Cíclico / E-commerce
+BAHI34;Boeing Company;BDR;Industrial / Aeroespacial
+BERK34;Berkshire Hathaway Inc.;BDR;Financeiro
+BIDU34;Baidu Inc.;BDR;Comunicação / Tecnologia
+BKNG34;Booking Holdings Inc.;BDR;Consumo Cíclico / Turismo
+BOAC34;Bank of America Corporation;BDR;Financeiro
+CATP34;Caterpillar Inc.;BDR;Industrial
+CHVX34;Chevron Corporation;BDR;Energia
+CITI34;Citigroup Inc.;BDR;Financeiro
+COCA34;The Coca-Cola Company;BDR;Consumo Não Cíclico
+COPH34;ConocoPhillips;BDR;Energia
+COST34;Costco Wholesale Corporation;BDR;Consumo Não Cíclico
+CRM34;Salesforce Inc.;BDR;Tecnologia
+CSCO34;Cisco Systems Inc.;BDR;Tecnologia
+DEEC34;Deere & Company;BDR;Industrial
+DISB34;The Walt Disney Company;BDR;Comunicação / Entretenimento
+EXXO34;Exxon Mobil Corporation;BDR;Energia
+GEOO34;GE Aerospace;BDR;Industrial
+GOGL34;Alphabet Inc. Class A;BDR;Tecnologia
+GOGL35;Alphabet Inc. Class C;BDR;Tecnologia
+GSHP34;Goldman Sachs Group Inc.;BDR;Financeiro
+HOME34;The Home Depot Inc.;BDR;Consumo Cíclico
+HONB34;Honeywell International Inc.;BDR;Industrial
+IBM34;IBM Corporation;BDR;Tecnologia
+INTC34;Intel Corporation;BDR;Tecnologia
+JBSS32;JBS N.V.;BDR;Alimentos
+JDCO34;JD.com Inc.;BDR;Consumo Cíclico / E-commerce
+JNJB34;Johnson & Johnson;BDR;Saúde
+JPMC34;JPMorgan Chase & Co.;BDR;Financeiro
+K1YS34;Krystal Biotech;BDR;Saúde
+L1MN34;Lululemon Athletica Inc.;BDR;Consumo Cíclico
+LLYC34;Eli Lilly and Company;BDR;Saúde
+LMTB34;Lockheed Martin Corporation;BDR;Industrial / Defesa
+LOWC34;Lowe's Companies Inc.;BDR;Consumo Cíclico
+M1TA34;Meta Platforms Inc.;BDR;Comunicação / Tecnologia
+MAST34;Mastercard Inc.;BDR;Financeiro / Pagamentos
+MCDC34;McDonald's Corporation;BDR;Consumo Cíclico
+MELI34;MercadoLibre Inc.;BDR;Consumo Cíclico / E-commerce
+MMM34;3M Company;BDR;Industrial
+MRCK34;Merck & Co. Inc.;BDR;Saúde
+MSBR34;Morgan Stanley;BDR;Financeiro
+MSFT34;Microsoft Corporation;BDR;Tecnologia
+NFLX34;Netflix Inc.;BDR;Comunicação / Entretenimento
+NKEC34;Nike Inc.;BDR;Consumo Cíclico
+NUCG34;Nu Holdings Ltd.;BDR;Financeiro
+NVDC34;Nvidia Corporation;BDR;Tecnologia
+ORCL34;Oracle Corporation;BDR;Tecnologia
+PAGS34;PagSeguro Digital Ltd.;BDR;Financeiro / Pagamentos
+PEPB34;PepsiCo Inc.;BDR;Consumo Não Cíclico
+PFIZ34;Pfizer Inc.;BDR;Saúde
+PGCO34;Procter & Gamble Co.;BDR;Consumo Não Cíclico
+PLTR34;Palantir Technologies Inc.;BDR;Tecnologia
+PYPL34;PayPal Holdings Inc.;BDR;Financeiro / Pagamentos
+QCOM34;Qualcomm Inc.;BDR;Tecnologia
+RIOB34;Rio Tinto Plc;BDR;Mineração
+ROST34;Ross Stores Inc.;BDR;Consumo Cíclico
+SAPR34;SAP SE;BDR;Tecnologia
+SBUX34;Starbucks Corporation;BDR;Consumo Cíclico
+SHOP34;Shopify Inc.;BDR;Tecnologia / E-commerce
+SNOW34;Snowflake Inc.;BDR;Tecnologia
+STOC34;StoneCo Ltd.;BDR;Financeiro / Pagamentos
+TENC34;Tencent Holdings Ltd.;BDR;Comunicação / Tecnologia
+TEXA34;Texas Instruments Inc.;BDR;Tecnologia
+TGTB34;Target Corporation;BDR;Consumo Cíclico
+TSLA34;Tesla Inc.;BDR;Consumo Cíclico
+TSMC34;Taiwan Semiconductor Manufacturing Co.;BDR;Tecnologia
+UBER34;Uber Technologies Inc.;BDR;Tecnologia / Mobilidade
+UNHH34;UnitedHealth Group Inc.;BDR;Saúde
+VALE34;Vale S.A. ADR;BDR;Mineração
+VISA34;Visa Inc.;BDR;Financeiro / Pagamentos
+WALM34;Walmart Inc.;BDR;Consumo Não Cíclico
+WFCO34;Wells Fargo & Company;BDR;Financeiro
+XPBR31;XP Inc.;BDR;Financeiro
+ABCP11;Grand Plaza Shopping;FII;Shopping Center
+AFHI11;AF Invest CRI;FII;Papéis / CRI
+AGCX11;Agências Caixa;FII;Agências Bancárias
+AIEC11;Autonomy Edifícios Corporativos;FII;Lajes Corporativas
+AJFI11;AJ Malls;FII;Shopping Center
+ALMI11;Torre Almirante;FII;Lajes Corporativas
+ALZM11;Alianza Multiestratégia;FII;Fundo de Fundos / Multiestratégia
+ALZR11;Alianza Trust Renda Imobiliária;FII;Híbrido / Misto
+ANCR11B;Ancar CI;FII;Shopping Center
+APTO11;Navi Residencial;FII;Residencial
+APXR11;APX Real Estate;FII;Residencial
+APXU11;APX Urban;FII;Residencial
+BARI11;Barigui Rendimentos Imobiliários;FII;Papéis / CRI
+BBFI11B;BB Progressivo;FII;Lajes Corporativas
+BBFO11;BB Fundo de Fundos;FII;Fundo de Fundos
+BBPO11;BB Progressivo II;FII;Agências Bancárias
+BBRC11;BB Renda Corporativa;FII;Agências Bancárias
+BCFF11;BTG Pactual Fundo de Fundos;FII;Fundo de Fundos
+BCIA11;Bradesco Carteira Imobiliária Ativa;FII;Fundo de Fundos
+BCRI11;Banestes Recebíveis Imobiliários;FII;Papéis / CRI
+BMLC11;BM Brascan Lajes Corporativas;FII;Lajes Corporativas
+BRCO11;Bresco Logística;FII;Logística
+BRCR11;BTG Pactual Corporate Office Fund;FII;Lajes Corporativas
+BTAL11;BTG Pactual Agro Logística;FII;Agronegócio / Logística
+BTLG11;BTG Pactual Logística;FII;Logística
+CPTS11;Capitânia Securities II;FII;Papéis / CRI
+CTXT11;Centro Têxtil Internacional;FII;Lajes Corporativas
+CVBI11;VBI CRI;FII;Papéis / CRI
+CXAG11;Caixa Agências;FII;Agências Bancárias
+CXCE11;Caixa Cedae;FII;Lajes Corporativas
+CXCO11;Caixa Imóveis Corporativos;FII;Lajes Corporativas
+CXTL11;Caixa TRX Logística Renda;FII;Logística
+DAMT11B;Diamante;FII;Shopping Center
+DEVA11;Devant Recebíveis Imobiliários;FII;Papéis / CRI
+FAMB11B;Edifício Almirante Barroso;FII;Lajes Corporativas
+FIGS11;General Shopping Ativo e Renda;FII;Shopping Center
+FLMA11;Continental Square Faria Lima;FII;Lajes Corporativas
+FTCE11B;Opportunity Fundo de Investimento Imobiliário;FII;Hotelaria
+GGRC11;GGR Covepi Renda;FII;Logística / Industrial
+HABT11;Habitat II;FII;Papéis / CRI
+HCRI11;Hospital da Criança;FII;Hospitalar
+HCTR11;Hectare CE;FII;Papéis / CRI
+HFOF11;Hedge Top FOFII;FII;Fundo de Fundos
+HGBS11;Hedge Brasil Shopping;FII;Shopping Center
+HGCR11;CSHG Recebíveis Imobiliários;FII;Papéis / CRI
+HGLG11;CSHG Logística;FII;Logística
+HGRE11;CSHG Real Estate;FII;Lajes Corporativas
+HGRU11;CSHG Renda Urbana;FII;Renda Urbana
+HSLG11;HSI Logística;FII;Logística
+HSML11;HSI Malls;FII;Shopping Center
+HTMX11;Hotel Maxinvest;FII;Hotelaria
+INLG11;Inter Logística;FII;Logística
+IRDM11;Iridium Recebíveis Imobiliários;FII;Papéis / CRI
+JFLL11;JFL Living;FII;Residencial
+JRDM11;Shopping Jardim Sul;FII;Shopping Center
+JSAF11;JS Ativos Financeiros;FII;Fundo de Fundos / Multiestratégia
+JSRE11;JS Real Estate Multigestão;FII;Híbrido / Misto
+JTPR11;JT Prev Desenvolvimento Habitacional;FII;Residencial / Desenvolvimento
+KCRE11;Kinea Crédito;FII;Papéis / CRI
+KFOF11;Kinea FOF;FII;Fundo de Fundos
+KIVO11;KIVO;FII;Papéis / CRI
+KLOG11;Kinea Logística;FII;Logística
+KNCR11;Kinea Rendimentos Imobiliários;FII;Papéis / CRI
+KNHY11;Kinea High Yield CRI;FII;Papéis / CRI
+KNIP11;Kinea Índice de Preços;FII;Papéis / CRI
+KNRI11;Kinea Renda Imobiliária;FII;Híbrido / Lajes e Logística
+KNSC11;Kinea Securities;FII;Papéis / CRI
+LVBI11;VBI Logístico;FII;Logística
+MALL11;Malls Brasil Plural;FII;Shopping Center
+MCCI11;Mauá Capital Recebíveis Imobiliários;FII;Papéis / CRI
+MGFF11;Mogno Fundo de Fundos;FII;Fundo de Fundos
+MXRF11;Maxi Renda;FII;Papéis / CRI
+NSLU11;Hospital Nossa Senhora de Lourdes;FII;Hospitalar
+NVHO11;Novo Horizonte;FII;Hospitalar
+OUJP11;Ourinvest JPP;FII;Papéis / CRI
+PATL11;Pátria Logística;FII;Logística
+PORD11;Polo Recebíveis Imobiliários;FII;Papéis / CRI
+PQDP11;Parque Dom Pedro Shopping Center;FII;Shopping Center
+PVBI11;VBI Prime Properties;FII;Lajes Corporativas
+RBFF11;Rio Bravo Fundo de Fundos;FII;Fundo de Fundos
+RBHY11;Rio Bravo Crédito Imobiliário High Yield;FII;Papéis / CRI
+RBRD11;RB Capital Renda II;FII;Híbrido / Misto
+RBRF11;RBR Alpha Multiestratégia Real Estate;FII;Fundo de Fundos
+RBRL11;RBR Log;FII;Logística
+RBRP11;RBR Properties;FII;Híbrido / Misto
+RBRR11;RBR Rendimento High Grade;FII;Papéis / CRI
+RBRY11;RBR Crédito Imobiliário Estruturado;FII;Papéis / CRI
+RBVA11;Rio Bravo Renda Varejo;FII;Renda Urbana
+RCRB11;Rio Bravo Renda Corporativa;FII;Lajes Corporativas
+RECR11;REC Recebíveis Imobiliários;FII;Papéis / CRI
+RECT11;REC Renda Imobiliária;FII;Lajes Corporativas
+RZTR11;Riza Terrax;FII;Agronegócio / Imóveis Rurais
+SHPH11;Shopping Pátio Higienópolis;FII;Shopping Center
+SNAG11;Suno Agro;FII;Fiagro / Agronegócio
+SNCI11;Suno Recebíveis Imobiliários;FII;Papéis / CRI
+SNME11;Suno Multiestratégia;FII;Multiestratégia
+SPVJ11;SP Downtown;FII;Renda Urbana
+TEPP11;Tellus Properties;FII;Lajes Corporativas
+TRBL11;Tellus Rio Bravo Renda Logística;FII;Logística
+TRXB11;TRX Renda Imobiliária;FII;Renda Urbana
+TRXF11;TRX Real Estate;FII;Renda Urbana
+URPR11;Urca Prime Renda;FII;Papéis / CRI
+VGHF11;Valora Hedge Fund;FII;Multiestratégia
+VGIR11;Valora RE III;FII;Papéis / CRI
+VILG11;Vinci Logística;FII;Logística
+VISC11;Vinci Shopping Centers;FII;Shopping Center
+VRTA11;Fator Verità;FII;Papéis / CRI
+WHGR11;WHG Real Estate;FII;Multiestratégia
+XPHT11;XP Hotéis;FII;Hotelaria
+XPLG11;XP Log;FII;Logística
+XPML11;XP Malls;FII;Shopping Center
+3PRE11;Galapagos Teva ITBR Tesouro Pré-Fixado 3 Anos;ETF;Renda Fixa
+ACWI11;Trend ETF MSCI ACWI Fundo de Índice;ETF;Global
+ALUG11;Investo ETF MSCI US Real Estate Fundo de Índice;ETF;Setorial
+ASIA11;Trend ETF MSCI Asia ex-Japão Fundo de Índice;ETF;Global
+B5P211;It Now IMA-B5+ Fundo de Índice;ETF;Renda Fixa
+BBOV11;BB ETF Ibovespa Fundo de Índice;ETF;Ações Brasil
+BDEF11;B-Index Morningstar Setores Defensivos Brasil Fundo de Índice;ETF;Ações Brasil
+BIOM11;Investo ETF Global BioTech Fundo de Índice;ETF;Temático
+BITH11;Hashdex Nasdaq Bitcoin Reference Price Fundo de Índice;ETF;Cripto
+BITI11;It Now Bloomberg Galaxy Bitcoin Fundo de Índice;ETF;Cripto
+BOVA11;iShares Ibovespa Fundo de Índice;ETF;Ações Brasil
+BOVB11;Bradesco Ibovespa Fundo de Índice;ETF;Ações Brasil
+BOVV11;It Now Ibovespa Fundo de Índice;ETF;Ações Brasil
+BTER11;Investo Brazil Best Quality Acumulação;ETF;Ações Brasil
+DIVO11;It Now IDIV Fundo de Índice;ETF;Ações Brasil
+ECOO11;iShares Índice Carbono Eficiente Brasil Fundo de Índice;ETF;Ações Brasil
+ETHE11;Hashdex Nasdaq Ethereum Reference Price Fundo de Índice;ETF;Cripto
+EURB11;Trend ETF MSCI Europe Fundo de Índice;ETF;Global
+EURP11;Trend ETF MSCI Europe Fundo de Índice;ETF;Global
+FIND11;It Now IFNC Fundo de Índice;ETF;Setorial
+FIXA11;BB ETF S&P/B3 Futuro de Taxa de Juros Fundo de Índice;ETF;Renda Fixa
+GDXL11;Trend ETF MVIS Global Gold Miners Fundo de Índice;ETF;Commodities
+GOLD11;Trend ETF LBMA Gold Fundo de Índice;ETF;Commodities
+GOVE11;It Now Governance ETF Fundo de Índice;ETF;Ações Brasil
+HASH11;Hashdex Nasdaq Crypto Index ETF;ETF;Cripto
+HERO11;Trend ETF Global Video Games & eSports Fundo de Índice;ETF;Temático
+IDIV11;It Now IDIV Fundo de Índice;ETF;Ações Brasil
+IMAB11;It Now ID ETF IMA-B Fundo de Índice;ETF;Renda Fixa
+IRFM11;It Now IRF-M Fundo de Índice;ETF;Renda Fixa
+ISUS11;It Now ISE Fundo de Índice;ETF;ESG
+IVVB11;iShares S&P 500 Fundo de Investimento ETF;ETF;Ações EUA
+JOGO11;Investo VanEck ETF Video Gaming & eSports Fundo de Índice;ETF;Temático
+LFTB11;BTG Pactual Teva Tesouro Selic Fundo de Índice;ETF;Renda Fixa
+MATB11;It Now IMAT Fundo de Índice;ETF;Setorial
+MOOO11;Investo ETF MVIS Global Agribusiness Fundo de Índice;ETF;Temático
+NASD11;Trend ETF Nasdaq 100 Fundo de Índice;ETF;Ações EUA
+NDIV11;Nu Renda Ibov Smart Dividendos Fundo de Índice;ETF;Ações Brasil
+NFTS11;Investo VanEck ETF Crypto Compare Media & Entertainment Leaders Fundo de Índice;ETF;Temático
+NSDV11;Nu Ibov Smart Dividendos Fundo de Índice;ETF;Ações Brasil
+OROF11;Galapagos Ouro Físico DEX;ETF;Commodities
+PIBB11;It Now PIBB IBrX-50 Fundo de Índice;ETF;Ações Brasil
+POSB11;Galapagos Teva Tesouro Selic & IPCA+;ETF;Renda Fixa
+PRAF11;Galapagos Prata Física DEX;ETF;Commodities
+QBTC11;QR CME CF Bitcoin Reference Rate Fundo de Índice;ETF;Cripto
+QETH11;QR CME CF Ether Reference Rate Fundo de Índice;ETF;Cripto
+RARA11;Investo MVIS Global Rare Earth/Strategic Metals;ETF;Temático
+SMAC11;It Now Small Caps Fundo de Índice;ETF;Ações Brasil
+SMAL11;iShares Small Cap Fundo de Índice;ETF;Ações Brasil
+SPXI11;It Now S&P 500 TRN Fundo de Índice;ETF;Ações EUA
+SPXR11;Trend ETF S&P 500 Fundo de Índice;ETF;Ações EUA
+TECH11;Trend ETF MSCI US Technology Fundo de Índice;ETF;Temático
+TECK11;It Now NYSE FANG+ Fundo de Índice;ETF;Setorial
+TOPY11;Buena Vista DEX VettaFi NEOS Multi High Income;ETF;Ações EUA
+TRIG11;Trígono Teva Ações Micro Cap / Small Cap Fundo de Índice;ETF;Ações Brasil
+WRLD11;Investo FTSE Global Equities Fundo de Índice;ETF;Global
+XBCI11;Buena Vista DEX VettaFi NEOS Boosted Bitcoin High Income;ETF;Cripto
+XBOV11;Caixa ETF Ibovespa Fundo de Índice;ETF;Ações Brasil
+XFIX11;Trend ETF IFIX Fundo de Índice;ETF;FIIs
+XSPI11;Buena Vista DEX VettaFi NEOS Boosted S&P 500 High Income;ETF;Ações EUA

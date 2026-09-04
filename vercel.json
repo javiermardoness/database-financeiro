@@ -1,0 +1,36 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "headers": [
+    {
+      "source": "/dados/:categoria/:hash/:arquivo.csv",
+      "headers": [
+        { "key": "Content-Type", "value": "text/csv; charset=utf-8" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/dados/lista_corretoras_atualizadas.csv",
+      "headers": [
+        { "key": "Content-Type", "value": "text/csv; charset=utf-8" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/dados/corretoras/7f3a9c2e8b41d6054a91ef72c8360bd5/lista_corretoras.csv",
+      "destination": "/dados/corretoras/corretoras_atualizadas.csv"
+    },
+    {
+      "source": "/dados/ativos/db3967b2ff9941708c727df48d2871e6/ativos_atualizacao.csv",
+      "destination": "/dados/ativos/ativos_atualizados.csv"
+    },
+    {
+      "source": "/dados/lista_corretoras_atualizadas.csv",
+      "destination": "/dados/corretoras/corretoras_atualizadas.csv"
+    }
+  ]
+}
