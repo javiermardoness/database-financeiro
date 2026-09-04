@@ -52,9 +52,7 @@ Quando um dataset for atualizado sem mudança incompatível de schema, substitua
 
 ## Publicação no GitHub e na Vercel
 
-O GitHub é a fonte versionada. Depois que o GitHub App da Vercel receber acesso ao repositório, a integração Git cria previews para branches e publica a branch `main` em produção depois do merge. Enquanto esse acesso não estiver autorizado, os deployments são publicados manualmente com o Vercel CLI a partir de uma árvore de trabalho revisada.
-
-Não há etapa de build nem dependências: o preset é `Other` e a raiz do repositório é servida como conteúdo estático.
+O GitHub é a fonte versionada. A integração Git da Vercel está conectada ao repositório, cria previews para branches e publica a branch `main` em produção depois do merge. Não há etapa de build nem dependências: o preset é `Other` e a raiz do repositório é servida como conteúdo estático.
 
 Fluxo recomendado:
 
